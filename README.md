@@ -12,4 +12,6 @@ Languages:
 ## Tools
 I use vscode for web apps and python, and IntelliJ Idea for Java.
 
+## Stats
+
 [![Stats](https://github-readme-stats.vercel.app/api?username=triplean)](https://github.com/anuraghazra/github-readme-stats)
