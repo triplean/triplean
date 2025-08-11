@@ -1,14 +1,11 @@
-# About me
-Hello! 👋 I'm TripleAn. I'm still learning so I make notable mistakes sometimes. I program in Python and little bit of web. 
+# About Me
+I'm a guy who sits at his computer all day basically. I love coding apps for both desktop and mobile (mostly desktop tbh).
+Btw, Security Helpy is my project for testing new langs and frameworks, so please don't take it seriously
 
-Any suggest or bug, you can let me know in issues of any project, also, PRs are welcome!
+# (human) Languages
+- Español 🇲🇽 (Main)
+- English 🇺🇸
 
-Languages:
-- 🇪🇸 Español (Main)
-- 🇬🇧 English (Polished but yet not perfect)
-
-## Tools
-I use vscode for web apps, IntelliJ Idea for Java, and PyCharm for Python.
-## Stats
-
+# Stats
+My commit history is so lame
 [![Stats](https://github-readme-stats.vercel.app/api?username=triplean)](https://github.com/anuraghazra/github-readme-stats)
