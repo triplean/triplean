@@ -7,5 +7,5 @@ Btw, Security Helpy is my project for testing new langs and frameworks, so pleas
 - English 🇺🇸
 
 # Stats
-My commit history is so lame
+My commit history is so lame\
 [![Stats](https://github-readme-stats.vercel.app/api?username=triplean)](https://github.com/anuraghazra/github-readme-stats)
