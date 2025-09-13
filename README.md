@@ -9,3 +9,4 @@ Btw, Security Helpy is my project for testing new langs and frameworks, so pleas
 # Stats
 My commit history is so lame\
 [![Stats](https://github-readme-stats.vercel.app/api?username=triplean)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=triplean&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
