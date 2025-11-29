@@ -1,12 +1,9 @@
 # About Me
-I'm a guy who sits at his computer all day basically. I love coding apps for both desktop and mobile (mostly desktop tbh).
-Btw, Security Helpy is my project for testing new langs and frameworks, so please don't take it seriously
+Sum regular guy coding stuff on his computer.
+I don't do a lot of open source things but yea.
 
-# (human) Languages
+# (human) languages
 - Español 🇲🇽 (Main)
 - English 🇺🇸
 
-# Stats
-My commit history is so lame\
-[![Stats](https://github-readme-stats.vercel.app/api?username=triplean)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=triplean&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+btw, Security Helpy is my project for testing new langs and frameworks, so please don't take it seriously
